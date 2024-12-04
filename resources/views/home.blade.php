@@ -25,6 +25,9 @@
         <li>Lakukan Pembayaran</li>
     </ol>
 
-    <p><a href="/register">Buat akun untuk bergabung.</p></a>
+    <p><a href="/register">Buat akun</a> untuk bergabung.</p>
+    <a href="/table">Table</a>
 </body>
 </html>
+
+
